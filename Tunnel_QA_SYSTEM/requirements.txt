@@ -1,0 +1,5 @@
+flask
+py2neo
+jieba
+scikit_learn
+requests
